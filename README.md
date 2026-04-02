@@ -1,5 +1,3 @@
-marp: true
-
 # Les Agents IA et MCP
 
 
