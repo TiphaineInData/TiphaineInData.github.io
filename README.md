@@ -94,7 +94,6 @@ L'agent reçoit et analyse le résultat de son action. Il se pose la question : 
 
 > L'agent **mémorise toutes les étapes** de la boucle en cours. Cela lui permet de ne pas répéter la même action inutilement et de progresser logiquement vers la réponse.
 
-![Cycle TAO - ReAct Agent Architecture](image.png)
 
 ---
 
@@ -108,6 +107,8 @@ L'agent reçoit et analyse le résultat de son action. Il se pose la question : 
 Une tâche complexe nécessite souvent plusieurs boucles TAO successives. 
 
 L'agent alterne sans cesse **raisonnement et action**, en intégrant immédiatement chaque résultat dans sa réflexion.
+
+![Cycle TAO - ReAct Agent Architecture](image.png)
 
 > **Pourquoi c'est important ?** L'agent s'appuie sur des données réelles vérifiées à chaque étape — pas uniquement sur ce qu'il "croit savoir" depuis son entraînement. Cela réduit fortement les hallucinations.
 
