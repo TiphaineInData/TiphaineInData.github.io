@@ -40,6 +40,8 @@ Seul, le LLM répond mais n'agit pas. C'est la couche **agent** autour de lui qu
 
 Le raisonnement d'un agent suit un cycle en trois étapes, appelé **TAO** :
 
+![Boucle tao](toa.png)
+
 > **T**hought → **A**ction → **O**bservation
 > (Pensée → Action → Observation)
 
