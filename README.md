@@ -18,8 +18,6 @@ La différence fondamentale avec un chatbot classique :
 
 > **En résumé :** un agent vous emmène du point A au point B. Vous lui donnez un objectif, il planifie et agit pour l'atteindre.
 
-<video src="Agent_ManimCE_GIF.mp4" controls width="100%"></video>
-
 ---
 
 ## 2. Le cerveau de l'agent : le LLM
@@ -112,6 +110,8 @@ L'agent alterne sans cesse **raisonnement et action**, en intégrant immédiatem
 
 > **Pourquoi c'est important ?** L'agent s'appuie sur des données réelles vérifiées à chaque étape — pas uniquement sur ce qu'il "croit savoir" depuis son entraînement. Cela réduit fortement les hallucinations.
 
+
+<video src="Agent_ManimCE_GIF.mp4" controls width="100%"></video>
 
 ## 5. Les outils (Tools)
 
