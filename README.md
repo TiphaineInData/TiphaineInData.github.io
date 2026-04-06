@@ -110,6 +110,7 @@ L'agent alterne sans cesse **raisonnement et action**, en intégrant immédiatem
 
 > **Pourquoi c'est important ?** L'agent s'appuie sur des données réelles vérifiées à chaque étape — pas uniquement sur ce qu'il "croit savoir" depuis son entraînement. Cela réduit fortement les hallucinations.
 
+Voici une vidéo qui montre le processus ReAct : 
 
 <video src="Agent_ManimCE_GIF.mp4" controls width="100%"></video>
 
